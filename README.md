@@ -4,7 +4,7 @@ I have a background in data science and am deeply focused on machine learning an
  
 ## Today:    
  
-I am currently studying **[Business Data Analytics](https://www.mondragon.edu/es/grado-business-data-analytics)** at **Mondragon University** and working as a trainee at **[Eroski](https://www.eroski.es/)** in the department of Client Intelligence in Elorrio (Spain) 
+I am currently studying **[Business Data Analytics](https://www.mondragon.edu/es/grado-business-data-analytics)** at **Mondragon University** and working as a trainee at **[Eroski](https://www.eroski.es/)** in the marketing customer intelligence team in Elorrio (Spain) 
 I’m looking to collaborate on **Data Science and Digital Marketing**     
 
 ## Connect with me:     
