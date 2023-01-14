@@ -1,4 +1,4 @@
-# Hi, I'm Mikel Juárez!  
+# Hi, I'm Mikel Juárez Reoyo!  
 
 I have a background in Data Science and am learning more about Digital Marketing. I like both the scientific and the business side, so my projects are always oriented to problem solving or process optimisation. I am passionate about the world of data and therefore I train every day with courses and participate in interesting projects to keep up with the latest technologies. 
  
