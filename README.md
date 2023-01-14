@@ -1,13 +1,13 @@
-# Hi, I'm Mikel Juárez Reoyo!  
+# Hi, I'm Mikel Juárez Reoyo!
 
 I have a background in Data Science and am learning more about Digital Marketing. I like both the scientific and the business side, so my projects are always oriented to problem solving or process optimisation. I am passionate about the world of data and therefore I train every day with courses and participate in interesting projects to keep up with the latest technologies. 
  
-## Today:    
+## Today
  
 I am currently studying **[Business Data Analytics](https://www.mondragon.edu/es/grado-business-data-analytics)** at **Mondragon University** and working as a trainee at **[Eroski](https://www.eroski.es/)** in the marketing Customer Intelligence team in Elorrio (Spain) 
 I’m looking to collaborate on **Data Science and Digital Marketing**     
 
-## Connect with me:     
+## Connect with me
 
 <a href="https://www.linkedin.com/in/mikeljuarez/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="35" width="35">
